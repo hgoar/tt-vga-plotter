@@ -1,6 +1,6 @@
 ## How it works
 
-VGA plotter
+Run = 0 empty run
 
 ## How to test
 
