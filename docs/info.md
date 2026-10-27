@@ -1,6 +1,6 @@
 ## How it works
 
-Run = 0 empty run
+Draw Axis
 
 ## How to test
 
